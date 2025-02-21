@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="title">Translate</string>
+
+    <string-array name="arr">
+        <item></item>
+        <item>i</item>
+        <item>want</item>
+        <item>big</item>
+        <item>men</item>
+        <item>to</item>
+        <item>kiss</item>
+        <item>me</item>
+
+    </string-array>
+    <string-array name="arr2">
+        <item></item>
+        <item>i love</item>
+        <item>want</item>
+        <item>big</item>
+        <item>men</item>
+        <item>to</item>
+        <item>kiss</item>
+        <item>me</item>
+
+    </string-array>
+
+</resources>
+
